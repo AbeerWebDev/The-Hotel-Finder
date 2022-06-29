@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# The Hotel Finder
+Link to project deployed with netlify. Live demo [here](the-hotel-finder.netlify.app)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Content
+* General Information
+* Technologies Used
+* Features
+* Screenshot
+* Installation and Setup Instructions
+* Usage
+* Project Status
+* Room for Improvement
+* Acknowledgements
+* Contact
 
-## Available Scripts
+## General Information
+I created The Hotel Finder to display my skills using CSS-in-JS, a popular technique that allows developers to write CSS code using Javascript. The Hotel Finder website is a static website built with the Emotion library.
+### Purpose of this project
 
-In the project directory, you can run:
+To demonstrate the use of CSS-inJS with the Emotion library.
 
-### `npm start`
+## Technologies Used
+* Emotion Library
+* ReactJS
+* HTML
+* CSS-in-JS
+* JavaScript
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Features
+* Display of skillset in CSS-in-JS with the use of the Emotion Library.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Screenshot
+Version 1.0 
+![project screenshot](Screenshot.png)
 
-### `npm test`
+## Installation and Setup Instructions
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone down this repository. You will need node and `npm` installed globally on your machine.
 
-### `npm run build`
+### Installation:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`npm install`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To Run Test Suite:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+`npm test`
 
-### `npm run eject`
+To Start Server:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+`npm start`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To Visit App:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+`localhost:3000/`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Usage
 
-## Learn More
+**Display**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Display what can be accomplished using CSS-in-JS
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Project Status
+Project is: Completed
 
-### Code Splitting
+## Room for Improvement
+* Make website dynamic.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Acknowledgements
+* Many thanks to Codecademy.
 
-### Analyzing the Bundle Size
+## Contact
+Created by Abeer Ahmed [LinkedIn profile](add url) - feel free to contact me.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
