@@ -1,5 +1,5 @@
 # The Hotel Finder
-Link to project deployed with netlify. Live demo [here](the-hotel-finder.netlify.app)
+Link to project deployed with netlify. Live demo [here](https://the-hotel-finder.netlify.app)
 
 ## Table of Content
 * General Information
